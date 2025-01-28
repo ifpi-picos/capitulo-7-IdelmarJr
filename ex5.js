@@ -1,7 +1,3 @@
-    const numeros = [10,20,30];
+const nome = 'Idelmar';
 
-    numeros.push(40,50);
-    //numeros.push(40);
-    //numeros.push(50);
-    
-    console.log(numeros);
+console.log(nome.length);
